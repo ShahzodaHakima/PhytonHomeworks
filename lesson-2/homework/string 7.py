@@ -1,0 +1,5 @@
+a=input("Jumlani kiriting: ")
+b=input("Almashtiriladigan so'zni kiriting: ")
+c=input("Yangi so'zni kiriting: ")
+natija=a.replace(b,c)
+print("Natija:", natija)

@@ -1,0 +1,5 @@
+a=input("matnni kiriting ")
+b=len(a)
+print(a.upper())
+print(a.lower())
+print("matn uzunligi", b)

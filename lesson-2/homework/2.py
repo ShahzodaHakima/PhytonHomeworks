@@ -1,0 +1,7 @@
+a=int(input("birinchi sonni kiriting"))
+b=int(input("ikkinchi sonni kiriting"))
+c=int(input("uchinchi sonni kiriting"))
+katta=max(a,b,c)
+kichik=min(a,b,c)
+print("Eng katta son=", katta)
+print("Eng kichik son=", kichik)
